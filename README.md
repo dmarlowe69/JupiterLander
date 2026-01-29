@@ -9,7 +9,7 @@ Milestones:
 4. located code to draw basic elements of the game
 5. many more and more to come
 
-note this code was compiled using by version of c_cbm6502asm
+note this code was compiled using my version of c_cbm6502asm
 
 The text files are formated with EOL as
 a <CR>, $0D per the Commodore Macro Development System (MADS)
